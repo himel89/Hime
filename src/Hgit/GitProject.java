@@ -9,7 +9,7 @@ public class GitProject {
 		
 		
 		
-System.out.println("Himel practice");
+System.out.println("Himel");
 
 	}
 
