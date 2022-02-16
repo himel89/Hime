@@ -8,7 +8,7 @@ public class GitProject {
 		System.out.println("I am a softwere tester");
 		
 		
-		System.out.println("P");
+		
 System.out.println("Himel practice");
 
 	}
