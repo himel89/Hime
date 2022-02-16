@@ -7,7 +7,7 @@ public class GitProject {
 		System.out.println("I am a student of Telentech");
 		System.out.println("I am a softwere tester");
 System.out.println("Himel practice");
-System.out.println("Himel");
+
 	}
 
 }
